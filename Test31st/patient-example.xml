@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Inv CustomerNo ="AABB123">
+<Invoice>		
+		<invoicenumber> 3322212</invoicenumber>
+		<invoicedate> 27-Jan-2019</invoicedate>
+		<PONumber> ABCDEF</PONumber>
+<EmailID> patilkunal8@gmail.com</EmailID>
+<EmailID> patilkaveri17@gmail.com</EmailID>
+</Invoice>
+</Inv>
